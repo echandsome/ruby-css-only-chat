@@ -1,0 +1,10 @@
+.keys {
+  position: absolute;
+  left: 10px;
+  top: 200px;
+}
+.messages {
+  position: absolute;
+  top: 260px;
+  left: 10px;
+}
