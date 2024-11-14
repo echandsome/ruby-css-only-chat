@@ -99,6 +99,7 @@ class Server
   end
 end
 
+
 # A class whose "each" method blocks while waiting for messages from redis.  It
 # yields new html to be streamed to a client and appended to the index.html
 class IndexStreamer
